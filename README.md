@@ -1,1 +1,1 @@
-# snowflaketerraform
+# sfguide-terraform-sample
