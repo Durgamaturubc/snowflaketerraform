@@ -1,7 +1,7 @@
 name: "Snowflake Terraform Demo Workflow"
 
 on:
-  pull_request:
+  push:
     branches:
       - main
 
